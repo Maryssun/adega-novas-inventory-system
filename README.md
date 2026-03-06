@@ -1,4 +1,4 @@
-# Adega Novais Inventory System
+# Adega Novas Inventory System
 
 Sistema web desenvolvido para apoiar a gestão de estoque e o registro de vendas da *Adega Novais Bebidas*.  
 O projeto tem como objetivo oferecer uma solução simples e eficiente para organizar informações de produtos, acompanhar a movimentação de estoque e auxiliar na tomada de decisões do estabelecimento.
